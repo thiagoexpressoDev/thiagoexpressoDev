@@ -1,6 +1,6 @@
 # Thiago Alves Serra
 
-**`Desenvolvedor - QA - I.A `**
+**`Desenvolvedor - QA - I.A 📚`**
 
 Me chamo Thiago Alves Serra, sou formado em Análise e Desenvolvimento de Sistemas, com pós-graduação em Governança e Gestão de Processos, e atualmente cursando Tecnologia em Inteligência Artificial. Tenho interesse em desenvolvimento de software, com foco em evolução contínua e boas práticas de tecnologia.
 
